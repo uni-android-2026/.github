@@ -31,3 +31,7 @@
   * [Toasts](https://github.com/uni-android-2026/lab_7.1-Toasts)
   * [Dialog](https://github.com/uni-android-2026/lab_7.2-Dialog)
   * [Notifications](https://github.com/uni-android-2026/lab_7.3-Notifications)
+* Практика №8 (Боковое меню).
+  * [MyMenu](https://github.com/uni-android-2026/lab_8.1-MyMenu)
+* Практика №9 (Загрузочный экран).
+  * [MyMenu](https://github.com/uni-android-2026/lab_9.1-LoadingScreen)
