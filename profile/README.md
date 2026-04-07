@@ -34,4 +34,4 @@
 * Практика №8 (Боковое меню).
   * [MyMenu](https://github.com/uni-android-2026/lab_8.1-MyMenu)
 * Практика №9 (Загрузочный экран).
-  * [MyMenu](https://github.com/uni-android-2026/lab_9.1-LoadingScreen)
+  * [LoadingScreen](https://github.com/uni-android-2026/lab_9.1-LoadingScreen)
